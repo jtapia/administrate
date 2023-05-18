@@ -13,6 +13,7 @@ gem "pundit"
 gem "redcarpet"
 gem "sentry-raven"
 gem "unicorn"
+gem "dartsass-rails"
 
 group :development, :test do
   gem "appraisal"
